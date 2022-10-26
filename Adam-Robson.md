@@ -1,6 +1,6 @@
 # README.md
 
-![Photograph of Adam Robson](./table.jpg "Photograph of Adam Robson")
+![Photograph of Adam Robson](<img src="./table.jpg" height="100px" width="100px" /> "Photograph of Adam Robson")
 
 ___
 
