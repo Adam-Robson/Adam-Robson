@@ -1,7 +1,6 @@
 # README.md
 
-![]( )
-[![Photograph of Adam Robson](/assets/desktop/table.jpg "Photograph of Adam Robson")]
+![Photograph of Adam Robson](https://drive.google.com/file/d/1yVUFzZNhIw8p4tJWVhaNA5UgUDI74hwI/view?usp=sharing)
 ___
 
 ## Hi, I'm Adam! 
