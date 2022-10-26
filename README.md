@@ -1,6 +1,3 @@
-
-<img src="./table.jpg" height="300px" width="300px" alt="Photograph of Adam Robson" />
-
 ___
 
 ### Hi, I'm Adam! 
@@ -11,3 +8,4 @@ I am a full-stack software developer currently living in Portland, Oregon.  Comi
 
 ___
 
+<img src="./table.jpg" height="300px" width="300px" alt="Photograph of Adam Robson" />
