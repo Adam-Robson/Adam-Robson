@@ -1,7 +1,3 @@
-![black and white background image](bg.jpg)"black and white background image"
-
-___
-
 ### Hi, I'm Adam! 
 
 ### About me:
