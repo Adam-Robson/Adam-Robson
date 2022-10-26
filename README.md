@@ -1,5 +1,3 @@
-___
-
 ### Hi, I'm Adam! 
 
 ### About me:
