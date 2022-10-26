@@ -7,4 +7,4 @@ I am a full-stack software developer currently living in Portland, Oregon.  Comi
 ___
 
 <img src="./table.jpg" height="300px" width="300px" alt="Photograph of Adam Robson" />
-<img src="./dakota.jpeg height=300px" width="300px" alt= "Photograph of my dog dakota" />
+<img src="./dakota.jpeg height="300px" width="300px" alt= "Photograph of my dog dakota" />
