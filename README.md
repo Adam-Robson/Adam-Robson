@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Adam-Robson/Adam-Robson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./table.jpg" height="300px" width="300px" alt="Photograph of Adam Robson" />
 
-Here are some ideas to get you started:
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, I'm Adam! 
+
+### About me:
+
+I am a full-stack software developer currently living in Portland, Oregon.  Coming up on the one-year mark, I am young in my journey.  At times I can see this informing a kind of idealistic optimism in me towards software.  Alternatively, prior professional and academic experience has taught me that a deliberate and pragmatic approach is one of the most powerful and effective tools to use in analytic problem-solving.  My approach to software and working with systems is one that balances determination and confidence, against a cautious ingenuity made from a time-tested and conventionally-rooted practice, focused on sound fundamentals and a steady awareness of the next-reader when considering the work at-hand.  When I look at a piece of art, or a work of industry or technology, at first my gaze will gravitate towards design, however, without fail I will develop a quenchless thirst for understanding the cause and effect relationships that underlie and permit the functionality.  I am currently a student at Alchemy Code Lab, in Portland, Oregon.  I will graduate in February 2023.
+
+___
+
