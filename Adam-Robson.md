@@ -1,4 +1,7 @@
 # README.md
+
+![Photograph of Adam Robson](./Desktop/assets/table.jpg "Photograph of Adam Robson")
+
 ___
 
 ## Hi, I'm Adam! 
