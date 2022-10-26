@@ -1,6 +1,6 @@
 # README.md
 
-![Photograph of Adam Robson](https://drive.google.com/file/d/1yVUFzZNhIw8p4tJWVhaNA5UgUDI74hwI/view?usp=sharing)
+![Photograph of Adam Robson](/desktop/assets/table.jpg)
 ___
 
 ## Hi, I'm Adam! 
