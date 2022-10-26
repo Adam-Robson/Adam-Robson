@@ -1,6 +1,6 @@
 # README.md
 
-![Photograph of Adam Robson](./Desktop/assets/table.jpg "Photograph of Adam Robson")
+![Photograph of Adam Robson](./table.jpg "Photograph of Adam Robson")
 
 ___
 
