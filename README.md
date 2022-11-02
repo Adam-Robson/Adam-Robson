@@ -1,9 +1,13 @@
 ### Hi, I'm Adam! 
 
+___
+
 ### About me:
 
-I am a full-stack software developer currently living in Portland, Oregon.  Coming up on the one-year mark, I am young in my journey.  At times I can see this informing a kind of idealistic optimism in me towards software.  Alternatively, prior professional and academic experience has taught me that a deliberate and pragmatic approach is one of the most powerful and effective tools to use in analytic problem-solving.  My approach to software and working with systems is one that balances determination and confidence, against a cautious ingenuity made from a time-tested and conventionally-rooted practice, focused on sound fundamentals and a steady awareness of the next-reader when considering the work at-hand.  When I look at a piece of art, or a work of industry or technology, at first my gaze will gravitate towards design, however, without fail I will develop a quenchless thirst for understanding the cause and effect relationships that underlie and permit the functionality.  I am currently a student at Alchemy Code Lab, in Portland, Oregon.  I will graduate in February 2023.
+I am a full-stack software developer currently living in the Pacific Northwest of the United States.  As I approach the eight-month mark, I am young in my developer journey.  At times I find this informs a kind of idealistic optimism in me towards software.  This impulse is tempered, however, by prior professional and academic experience, which has taught me that a deliberate and pragmatic approach is one of the most powerful and effective tools for analytical problem-solving.  In working with systems, I value careful ingenuity and a conventionally-rooted practice.  With a focus on sound fundamentals, I strive to always consider the next-reader when considering work at-hand.  When experiencing a work of art or technology, at first I gravitate towards aesthetic of design, but quickly develop a thirst for understanding any causal relationships among the features, underlying the functionality.  I am currently a student at Alchemy Code Lab, in Portland, Oregon.  I will graduate in February 2023.
 
 ___
 
 <img src="./table.jpg" height="300px" width="300px" style="padding:5px;" alt="Photograph of Adam Robson" /><img src="./dakota.jpeg" height="300px" width="300px" alt= "Photograph of my dog dakota" /><img src="./jr.jpeg" height="300px" width="240px" alt="Photograph of my partner Melissa" />
+
+___
