@@ -13,7 +13,7 @@ ___
 
 #### Tools
 
-[![Python icon](/assets/python.png "Python")]  [![react icon](/assets/react_.png "React")]  [![javascript icon](assets/javascript_.png "JavaScript")]  [![html icon](assets/html5.png "HTML")]  [![node icon](/assets/nodejs_.png "Nodejs")]  [![express icon](/assets/express.png "Express")]  [![postgresql icon](/assets/postgresql.png "PostgreSQL")]  [![postman icon](/assets/postman.png "Postman")]
+[![Python icon](/assets/python.png "Python")]  [![react icon](/assets/react_.png "React")]  [![javascript icon](assets/javascript_.png "JavaScript")] [![express icon](/assets/express.png "Express")]  [![postgresql icon](/assets/postgresql.png "PostgreSQL")]  [![postman icon](/assets/postman.png "Postman")]
 
 ___
 
