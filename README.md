@@ -5,11 +5,7 @@ ___
 
 #### Contact Information
 
-[!(/assets/linkedin.png)](https://www.linkedin.com/in/adamrayrobson/)
-
-[![spotify icon](/assets/spotify.png "Spotify: LE FOG")](https://open.spotify.com/artist/4NrRxIaVhlouvojuHGq62y)
-
-[![gmail icon](/assets/gmail.png "Gmail: Adam Robson")](mailto:adamray312@gmail.com)
+[![linkedin icon](/assets/linkedin.png "LinkedIn: Adam Robson")](https://www.linkedin.com/in/adamrayrobson/)  [![spotify icon](/assets/spotify.png "Spotify: LE FOG")](https://open.spotify.com/artist/4NrRxIaVhlouvojuHGq62y)  [![gmail icon](/assets/gmail.png "Gmail: Adam Robson")](mailto:adamray312@gmail.com)
 
 ___
 
