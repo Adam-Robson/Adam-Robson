@@ -1,10 +1,11 @@
-___
 
 ### Hi, I'm Adam!
 
+___
+
 #### Contact Information
 
-[![linkedin icon](/assets/linkedin_.png "linkedin profile")](https://www.linkedin.com/in/adamrayrobson/)
+[!(/assets/linkedin_.png)](https://www.linkedin.com/in/adamrayrobson/)
 
 [![spotify icon](/assets/spotify_.png "Spotify: LE FOG")](https://open.spotify.com/artist/4NrRxIaVhlouvojuHGq62y)
 
@@ -14,7 +15,8 @@ ___
 
 #### Projects Information
 
-[![collabo icon](/assets/collabo_.png)](collabomusic.co/)  [![tallyho! icon](/assets/tallyho_.jpg "tallyho!")](tally-ho-road-trips.netlify.app/auth/sign-in)
+[![collabo icon](/assets/collabo_.png)](collabomusic.co/)
+[![tallyho! icon](/assets/tallyho_.jpg)](tally-ho-road-trips.netlify.app/auth/sign-in)
 
 ___
 
