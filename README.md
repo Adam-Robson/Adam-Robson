@@ -3,13 +3,6 @@
 [![linkedin icon](/assets/linkedin.png "LinkedIn: Adam Robson")](https://www.linkedin.com/in/adamrayrobson/)  [![spotify icon](/assets/spotify.png "Spotify: LE FOG")](https://open.spotify.com/artist/4NrRxIaVhlouvojuHGq62y)
 ___
 
-#### Projects
-
-[![collabo icon](/assets/collabo.png)](collabomusic.co/)
-[![tallyho! icon](/assets/tallyho.png)](tally-ho-road-trips.netlify.app/auth/sign-in)
-
-___react
-
 #### Tools
 
 ![Python icon](/assets/python.png "Python") ![react icon](/assets/react_.png "React") ![javascript icon](assets/javascript_.png "JavaScript") ![express icon](/assets/express.png "Express")  ![postgresql icon](/assets/postgresql.png "PostgreSQL")
