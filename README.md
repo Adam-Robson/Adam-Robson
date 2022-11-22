@@ -6,19 +6,19 @@ ___
 
 ### Contact Information
 
-[![linkedin icon](/assets/linkedin_.png "LinkedIn: Adam Robson")](https://www.linkedin.com/in/adamrayrobson/) [![spotify icon](/assets/spotify_.png "Spotify: LE FOG")](https://open.spotify.com/artist/4NrRxIaVhlouvojuHGq62y) [![gmail icon](/assets/gmail_.png "Gmail: Adam Robson")](mailto:adamray312@gmail.com)
+[![linkedin icon](/assets/linkedin_.png "LinkedIn: Adam Robson")](https://www.linkedin.com/in/adamrayrobson/)  [![spotify icon](/assets/spotify_.png "Spotify: LE FOG")](https://open.spotify.com/artist/4NrRxIaVhlouvojuHGq62y)  [![gmail icon](/assets/gmail_.png "Gmail: Adam Robson")](mailto:adamray312@gmail.com)
 
 =====
 
 ### Projects Information
 
-[![collabo icon](/assets/collabo_.png "Collabo.co")](collabomusic.co/) [![tallyho! icon](/assets/tallyho_.jpg "tallyho!")](tally-ho-road-trips.netlify.app/auth/sign-in)
+[![collabo icon](/assets/collabo_.png "Collabo.co")](collabomusic.co/)  [![tallyho! icon](/assets/tallyho_.jpg "tallyho!")](tally-ho-road-trips.netlify.app/auth/sign-in)
 
 =====
 
 ### Languages Libraries Frameworks Runtimes et al
 
-[![Python icon](/assets/python_.png "Python")] [![react icon](/assets/react_.png "React")] [![javascript icon](assets/javascript_.png "JavaScript")] [![html icon](assets/html5_.png "HTML")] [![node icon](/assets/nodejs_.png "Nodejs")] [![express icon](/assets/express.png "Express")] [![postgresql icon](/assets/postgresql_.png "PostgreSQL")] [![postman icon](/assets/postman.png "Postman")]
+[![Python icon](/assets/python_.png "Python")]  [![react icon](/assets/react_.png "React")]  [![javascript icon](assets/javascript_.png "JavaScript")]  [![html icon](assets/html5_.png "HTML")]  [![node icon](/assets/nodejs_.png "Nodejs")]  [![express icon](/assets/express.png "Express")]  [![postgresql icon](/assets/postgresql_.png "PostgreSQL")]  [![postman icon](/assets/postman.png "Postman")]
 
 =====
 
