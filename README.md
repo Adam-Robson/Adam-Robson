@@ -5,24 +5,24 @@ ___
 
 #### Contact Information
 
-[!(/assets/linkedin_.png)](https://www.linkedin.com/in/adamrayrobson/)
+[!(/assets/linkedin.png)](https://www.linkedin.com/in/adamrayrobson/)
 
-[![spotify icon](/assets/spotify_.png "Spotify: LE FOG")](https://open.spotify.com/artist/4NrRxIaVhlouvojuHGq62y)
+[![spotify icon](/assets/spotify.png "Spotify: LE FOG")](https://open.spotify.com/artist/4NrRxIaVhlouvojuHGq62y)
 
-[![gmail icon](/assets/gmail_.png "Gmail: Adam Robson")](mailto:adamray312@gmail.com)
+[![gmail icon](/assets/gmail.png "Gmail: Adam Robson")](mailto:adamray312@gmail.com)
 
 ___
 
 #### Projects Information
 
-[![collabo icon](/assets/collabo_.png)](collabomusic.co/)
-[![tallyho! icon](/assets/tallyho_.jpg)](tally-ho-road-trips.netlify.app/auth/sign-in)
+[![collabo icon](/assets/collabo.png)](collabomusic.co/)
+[![tallyho! icon](/assets/tallyho.jpg)](tally-ho-road-trips.netlify.app/auth/sign-in)
 
 ___
 
 #### Libraries Frameworks Runtimes et al
 
-[![Python icon](/assets/python_.png "Python")]  [![react icon](/assets/react_.png "React")]  [![javascript icon](assets/javascript_.png "JavaScript")]  [![html icon](assets/html5_.png "HTML")]  [![node icon](/assets/nodejs_.png "Nodejs")]  [![express icon](/assets/express.png "Express")]  [![postgresql icon](/assets/postgresql_.png "PostgreSQL")]  [![postman icon](/assets/postman.png "Postman")]
+[![Python icon](/assets/python.png "Python")]  [![react icon](/assets/react_.png "React")]  [![javascript icon](assets/javascript_.png "JavaScript")]  [![html icon](assets/html5.png "HTML")]  [![node icon](/assets/nodejs_.png "Nodejs")]  [![express icon](/assets/express.png "Express")]  [![postgresql icon](/assets/postgresql.png "PostgreSQL")]  [![postman icon](/assets/postman.png "Postman")]
 
 ___
 
