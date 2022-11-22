@@ -14,7 +14,7 @@ ___
 
 #### Projects Information
 
-[![collabo icon](/assets/collabo_.png "Collabo.co")](collabomusic.co/)  [![tallyho! icon](/assets/tallyho_.jpg "tallyho!")](tally-ho-road-trips.netlify.app/auth/sign-in)
+[![collabo icon](/assets/collabo_.png)](collabomusic.co/)  [![tallyho! icon](/assets/tallyho_.jpg "tallyho!")](tally-ho-road-trips.netlify.app/auth/sign-in)
 
 ___
 
