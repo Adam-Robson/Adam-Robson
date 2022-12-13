@@ -1,15 +1,15 @@
 
 ___
 
-### Hi, I'm Adam!
+### Hi, I'm Adam! [![adam_icon](https://user-images.githubusercontent.com/101651926/207433433-cb3f6ff8-5695-4d98-99a6-b09bd81b43bc.png "Personal: Icon") (https://www.linkedin.com/in/adamrayrobson/)
 
 [![linkedin icon](/assets/icons/linked_in.png "LinkedIn: Adam Robson")](https://www.linkedin.com/in/adamrayrobson/)    [![spotify icon](/assets/icons/spot_ify.png "Spotify: LE FOG")](https://open.spotify.com/artist/4NrRxIaVhlouvojuHGq62y)
 
-
-I am a full-stack software developer living in Portland, Oregon.  My objective as a software developer is to find a role in which I can contribute to the creation of quality technologies that are accessible to people across the socioeconomic spectrum.  I am a diligent and discerning individual who thrives in collaboration with others toward a shared goal.  Through prior professional and academic experience, I have developed a perspective informed by analytical reflection and critical examination, as well as verbal and written communication habits, that reflect an empathetic pathos and methodical technique.  My aspiration is to find an organization focusing on practices like mitigating its carbon footprint, and removing cultural impediments to a reality that views difference as strength, and variety as an indication of a robust environment.  I am preparing to graduate from Alchemy Code Lab in February 2023.
-
+I am a full-stack software engineer living in Portland, Oregon.  My objective lately is to find a role working for a company where I can contribute by creating well-tested high-quality technology, that is accessible to people across the socioeconomic spectrum.  I am diligent and discerning, and I thrive working in concert with others toward a shared goal.  My prior professional and academic experience, has given me the chance to develop a perspective informed by analytical reflection and critical examination, as well as the verbal and written communication habits which reflect a technique that is both empathetic and refined.  My aspiration is to find an organization with a focus on practices like mitigating its carbon footprint, and removing the cultural impediments to a fundamentally inclusive reality.
 ___
 
 ![Python icon](/assets/icons/python.png "Python")     ![react icon](/assets/icons/react.png "React")    ![javascript icon](assets/icons/javasscript.png "JavaScript")    ![express icon](/assets/icons/express.png "Express")      ![postgresql icon](/assets/icons/postgresql.png "PostgreSQL")   ![nodejs icon](/assets/icons/node.png "nodejs")
 
 ___
+
+This command line kills facists.
