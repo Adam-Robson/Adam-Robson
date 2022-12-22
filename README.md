@@ -12,4 +12,3 @@ ___
 
 ___
 
-This command line kills facists.
