@@ -1,4 +1,4 @@
-# This account is by Adam Robson
+# This is the account for Adam Robson
 
 ## I’m currently working on 🔭
 
