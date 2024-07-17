@@ -27,7 +27,7 @@ I am always looking to collaborate on projects, and would be happy to get involv
 
 I am always looking for what I can do better, or what I can learn, and as such, will always accept help when it is offered.
 
-However, I can not think of what i need help with in this instant. Will update if I find it.
+However, I can not think of what I need help with in this instant. Will update if I find it.
 
 ## Ask me about 💬
 
