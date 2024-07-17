@@ -1,22 +1,22 @@
 # This is the account for Adam Robson
 
-## I’m currently working on 🔭
+## I’m currently working on 📡
 
 A project to breathe new life into my repositories.
 
-It will include 
-1. code refinement, such as optimizing algorithms, refactoring, and removing dead code
-2. cleaning up problematic patterns, and improving readability & maintainability
-3. refreshing the documentation by updating READMEs, providing clear guidance for local usage, and adding visuals
-4. upgrading the dependencies to keep libraries and frameworks current
-5. quality assurance by conducting testing (unit. intefration & regression)
-6. integrating CI/CD where it is lacking
-7. prmptly addressing any security vulnerabilities with security patching
+It will include:
+- code refinement, such as optimizing algorithms, refactoring, and removing dead code
+- cleaning up problematic patterns, and improving readability & maintainability
+- refreshing the documentation by updating READMEs, providing clear guidance for local usage, and adding visuals
+- upgrading the dependencies to keep libraries and frameworks current
+- quality assurance by conducting testing (unit. intefration & regression)
+- integrating CI/CD where it is lacking
+- prmptly addressing any security vulnerabilities with security patching
 
 ## I’m currently learning 🌱 
 
 I am currently revisiting material in preparation for the Microsoft Azure Developer Associate certification.
-
+<br/>
 I am also slowly learning Bash.
 
 ## I’m looking to collaborate on 👯
@@ -29,8 +29,10 @@ I am always looking for what I can do better, or what I can learn, and as such, 
 
 ## Ask me about 💬
 
-How my philosophy degree worked out.
-or
+How my philosophy degree worked out. 🔭
+<br/>
+-or-
+<br/>
 How I write songs.
 
 ## How to reach me 📫
