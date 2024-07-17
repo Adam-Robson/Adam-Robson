@@ -2,7 +2,7 @@
 
 ## I’m currently working on 🔭
 
-What I am calling "Project Renaissance". The objective is to breathe new life into my repositories.
+A project to breathe new life into my repositories.
 
 It will include 
 1. code refinement, such as optimizing algorithms, refactoring, and removing dead code
