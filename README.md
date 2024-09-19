@@ -1,51 +1,30 @@
-# This is the account for Adam Robson
+# Adam Robson
 
-## I’m currently working on 📡
+## I’m currently 📡
 
-A project to breathe new life into my repositories.
+- refining my process implementation
+- improving my communication & personal maintainability
+- providing clear guidance for local usage
+- upgrading & updating any existential dependencies
+- reinforcing quality assurance by conducting tests
+- integrating Continuous Integration / Continuous Delivery when appropriate
+- prmptly addressing my insecurities and patching vulnerabilities
 
-It will include:
-- code refinement, such as optimizing algorithms, refactoring, and removing dead code
-- cleaning up problematic patterns, and improving readability & maintainability
-- refreshing the documentation by updating READMEs, providing clear guidance for local usage, and adding visuals
-- upgrading the dependencies to keep libraries and frameworks current
-- quality assurance by conducting testing (unit. intefration & regression)
-- integrating CI/CD where it is lacking
-- prmptly addressing any security vulnerabilities with security patching
+## I currently enjoy 🌱
 
-## I’m currently learning 🌱 
+### Separating Concerns
 
-I am currently revisiting material in preparation for the Microsoft Azure Developer Associate certification.
-<br/>
-I am also slowly learning Bash.
+Break down a system into distinct parts, each responsible for a separate concern or functionality.
 
-## I’m looking to collaborate on 👯
+### Avoiding duplication
 
-I am always looking to collaborate on projects, and would be happy to get involved with something new.
+Abstract common logic to be reused.
 
-## I’m looking for help with 🤔
+### Simplicity
 
-I am always looking for what I can do better, or what I can learn, and as such, will always accept help when it is offered.
+Opt for simplicity in design and implementation.
 
-However, I can not think of what I need help with in this instant. Will update if I find it.
+### Material Honesty
 
-## Ask me about 💬
+Substituting one material for another can lead to deceptive systems.
 
-How my philosophy degree worked out. 🔭
-<br/>
--or-
-<br/>
-How I write songs.
-
-## How to reach me 📫
-
-It is best to send an email to adamrayrobson@gmail.com
-
-## Pronouns 😄
-
-he/they
-
-## Fun fact ⚡
-
-I am in a single member band called [le fog](https://spoti.fi/3QNqMuE).
-	
