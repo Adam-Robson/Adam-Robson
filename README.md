@@ -1,29 +1,46 @@
-# Adam Robson 
+# Adam-Robson 🎈
 
-## I’m currently 📡
+![image of tectonic plates with a splash of earth](./plate.png)
 
-- refining my implementation process
+## I am currently working on
+
+- refining how i implement projects and strategies
 - improving my communication
 - providing guidance for local usage
-- upgrading & updating existential dependencies
-- reinforcing quality assurance by thoroghly questioning
-- continuously integrating when appropriate
-- promptly addressing insecurities and patching vulnerabilities
+- updating existential dependencies
+- strengthening quality assurance by thoroughly questioning
+- continuously integrating
+- promptly addressing insecurities
+- addressing and then reinforcing vulnerabilities
 
-## I currently enjoy 🌱
+## I currently enjoy
 
-### Separating Concerns 🧶
+### Separating Concerns
 
-Break down the system into parts, each with a distinct responsibility.
+Breaking down the system into distinct parts
 
 ### Avoiding duplication
 
-Abstract common logic to be reused.
+Abstract common logic for reuse
 
 ### Simplicity
 
-Seek clarity and focus in design.
+Seek clarity and focus in design
 
 ### Material Honesty
 
-Substituting one material for another can lead to a deceptive system.
+Bring the inherent qualities & textures into focus
+
+## This space
+
+This is a space where source code can be safely deployed, where resources
+can be played with, where learning new things is encouraged, and development
+and sharing is celebrated.
+
+## Contact Detail 🧶
+
+If you have any questions or are curious about working with the owner of
+this repository, please feel free to touch base through
+[linkedin](https://linkedin.com/in/adamrayrobson),
+[X](https://x.com/adamrayrobson),
+or [facebook](https://facebook.com/thisisanatom).
